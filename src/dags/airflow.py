@@ -21,7 +21,7 @@ dag = DAG(
 )
 
 def train_model():
-    # code pour entraîner le modèle, identique au code que vous avez fourni
+    # code pour entraîner le modèle, identique au code dans src/train.py
     # 
     return ''
 train_task = PythonOperator(
