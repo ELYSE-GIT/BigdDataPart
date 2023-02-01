@@ -1,0 +1,12 @@
+name: home_credit_risk_classification
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - scikit-learn
+  - lightgbm
+  - mlflow
+  - shap
+  - streamlit
+  - airflow
+  - flask
